@@ -12,9 +12,6 @@ Usage：
 3、输出 URL_IP.txt 和 IP_Address.txt
 
 
-![image](https://user-images.githubusercontent.com/46193687/162578187-4d768c39-06cb-4486-be81-80073392299a.png)
-
-
 下一步计划：
 
 1、实现IP反查域名和域名查询等功能。
